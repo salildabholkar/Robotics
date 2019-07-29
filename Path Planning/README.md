@@ -1,6 +1,8 @@
 # Autonomous Car Path Planning Project
 This project attempts to solve the [Udacity Path plannig problem](https://github.com/udacity/CarND-Path-Planning-Project).
-<img src="results/res1.png" alt="result 2" />
+
+![Screenshot of path planning from simulator](results/res2.png)
+
 ## The project
 It can be summarized as follows:
 * Safely navigate around a virtual highway with other traffic
