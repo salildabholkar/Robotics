@@ -1,6 +1,6 @@
 # Autonomous Car Path Planning Project
 This project attempts to solve the [Udacity Path plannig problem](https://github.com/udacity/CarND-Path-Planning-Project).
-
+<img src="results/res1.png" alt="result 2" />
 ## The project
 It can be summarized as follows:
 * Safely navigate around a virtual highway with other traffic
@@ -12,6 +12,7 @@ It can be summarized as follows:
 * The highway is 6946m long. 
   * Since the car is trying to go 50 MPH, it should take a little over 5 minutes to complete 1 loop.
 * Car should not experience total acceleration over 10 m/s^2 and jerk that is greater than 10 m/s^3.
+
 
 ### Notes
 
