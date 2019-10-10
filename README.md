@@ -2,7 +2,7 @@
 Robotics related projects developed by me. I have experience developing high performance programs using C++ as well as using frameworks such as ROS
 
 ## Current projects:
-* [Path planning on highway with traffic](Path Planning) - Used multi-sensor data fusion to combine data from various car sensor to find optimum lane for car
+* [Path planning on highway with traffic](Path%20Planning) - Used multi-sensor data fusion to combine data from various car sensor to find optimum lane for car while avoiding traffic and maintaining optimum speed 
 * Local Path Planning with obstacle avoidance using Bug2 Algorithm - Used ROS along with python
 * Combining Global (A*) and Local (Vector Field Histogram) algorithms for robust path planning - Used ROS along with python
 
